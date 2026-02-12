@@ -1,0 +1,2 @@
+# STYLIZED-
+A glossary mall
